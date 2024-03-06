@@ -1,5 +1,5 @@
 # 🪢 Neural Knitworks
-This repository contains code for the paper **"Neural Knitworks: Patched Neural Implicit Representation Networks"** published in **Pattern Recognition**:
+This repository contains code for the paper **"Neural Knitworks: Patched Neural Implicit Representation Networks"** published in [**Pattern Recognition**](https://www.sciencedirect.com/science/article/pii/S0031320324001298):
 
 ```
 @article{knitworks,
