@@ -1,4 +1,6 @@
 # 🪢 Neural Knitworks
+![knitworks](https://github.com/strath-ai/neural-knitworks/assets/13435425/232e0c67-ab10-4445-a00a-e1c08e641739)
+
 This repository contains code for the paper **"Neural Knitworks: Patched Neural Implicit Representation Networks"** published in [**Pattern Recognition**](https://www.sciencedirect.com/science/article/pii/S0031320324001298):
 
 ```
