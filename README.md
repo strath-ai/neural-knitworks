@@ -1,16 +1,24 @@
-# Neural Knitworks
-This repository contains code for the paper **"Neural Knitworks: Patched Neural Implicit Representation Networks"**:
+# 🪢 Neural Knitworks
+This repository contains code for the paper **"Neural Knitworks: Patched Neural Implicit Representation Networks"** published in **Pattern Recognition**:
 
 ```
-@misc{2109.14406,
-author = {Mikolaj Czerkawski and Javier Cardona and Robert Atkinson and Craig Michie and Ivan Andonovic and Carmine Clemente and Christos Tachtatzis},
-title = {Neural Knitworks: Patched Neural Implicit Representation Networks},
-year = {2021},
-eprint = {arXiv:2109.14406},
+@article{knitworks,
+  title = {Neural Knitworks: Patched neural implicit representation networks},
+  journal = {Pattern Recognition},
+  volume = {151},
+  pages = {110378},
+  year = {2024},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2024.110378},
+  url = {https://www.sciencedirect.com/science/article/pii/S0031320324001298},
+  author = {Mikolaj Czerkawski and Javier Cardona and Robert Atkinson and Craig Michie and Ivan Andonovic and Carmine Clemente and Christos Tachtatzis},
 }
 ```
 
-The code contains the implementation for solving tasks of image inpainting, super-resolution and denoising.
+The code contains the implementation for solving tasks of:
+* image inpainting
+* super-resolution
+* denoising
 
 ## :snake: Environment
 
